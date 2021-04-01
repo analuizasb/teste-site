@@ -3,7 +3,7 @@ console.log("Loaded");
 function Home(){
   return (
   <div>
-    <h1>Home 2</h1>
+    <h1>Pagina inicial</h1>
   </div>
   )
 }
