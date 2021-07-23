@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffe87ab7-44f4-4625-bc37-b3142fe417e9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/reducers/successReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/successReducer.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,6 +79,7 @@
       <workItem from="1626703859850" duration="2840000" />
       <workItem from="1626813391083" duration="314000" />
       <workItem from="1627068264909" duration="1931000" />
+      <workItem from="1627072704908" duration="715000" />
     </task>
     <servers />
   </component>
