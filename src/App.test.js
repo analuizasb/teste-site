@@ -18,7 +18,7 @@ const setup = (initialState = {}) => {
 test("renders without error", () => {
   const wrapper = setup();
   const app = findByTestAttribute(wrapper, "component-app");
-  expect(app).toHaveLength(1);
+  expect(app).toHaveLength(2);
 });
 
 describe("get secret word", () => {
