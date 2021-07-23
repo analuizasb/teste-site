@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ffe87ab7-44f4-4625-bc37-b3142fe417e9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/successReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/successReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +44,17 @@
     <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="getSecretWord.secret word is returned" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
@@ -79,7 +90,8 @@
       <workItem from="1626703859850" duration="2840000" />
       <workItem from="1626813391083" duration="314000" />
       <workItem from="1627068264909" duration="1931000" />
-      <workItem from="1627072704908" duration="715000" />
+      <workItem from="1627072704908" duration="788000" />
+      <workItem from="1627073516631" duration="1222000" />
     </task>
     <servers />
   </component>
